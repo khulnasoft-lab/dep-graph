@@ -1,6 +1,7 @@
 {
   "author": "khulnasoft.com",
   "name": "@khulnasoft/dep-graph",
+  "version": "0.0.1",
   "description": "Vulnmap dependency graph library",
   "homepage": "https://github.com/khulnasoft-lab/dep-graph#readme",
   "license": "Apache-2.0",
