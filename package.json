@@ -45,7 +45,7 @@
     "prettier": "^3.0.0",
     "ts-jest": "^29.0.0",
     "ts-node": "^10.0.0",
-    "typescript": "~4.9.0"
+    "typescript": "~5.3.0"
   },
   "dependencies": {
     "event-loop-spinner": "^2.1.0",
