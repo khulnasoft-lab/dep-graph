@@ -37,7 +37,7 @@
     "@types/object-hash": "^3.0.0",
     "@types/semver": "^7.3.6",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
     "benny": "^3.6.15",
     "eslint": "^8.0.0",
     "eslint-config-prettier": "^9.0.0",
